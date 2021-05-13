@@ -1,8 +1,13 @@
 # License-Plate-Number-Recognition
 
-Abstract- This Project aims to identify the license number of any vehicle using Image Processing Techniques.
+## Abstract- 
 
-#How to use the Software?
+This Project aims to identify the license number of any vehicle using Image Processing Techniques.
+
+## Language Used- 
+MATLAB
+
+## How to use the Software?
 
 1- Clone the repository or download the ZIP file.
 
@@ -24,6 +29,6 @@ The output is given via a message box as shown-
 
 ![4](https://user-images.githubusercontent.com/53121012/118181671-a34ec380-b455-11eb-90b7-dcaca453134e.PNG)
 
-Dataset Details-
+## Dataset Details-
 
 Characters Data for training is stored in Training folder. Dataset is available in form of database with the name "dataset.mat".
