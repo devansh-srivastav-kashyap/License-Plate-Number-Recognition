@@ -32,3 +32,7 @@ The output is given via a message box as shown-
 ## Dataset Details-
 
 Characters Data for training is stored in Training folder. Dataset is available in form of database with the name "dataset.mat".
+
+## Analysis-
+
+This project works with a mean accuracy of 82%.  
